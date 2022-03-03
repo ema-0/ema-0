@@ -1,6 +1,3 @@
-
-<img src="img/cover.svg"></img>
-
 <table align="right">
  <tr><td><img src="img/uk.png" height="13" width="20"> English</a></td></tr>
  <tr><td><img src="img/fre.png" height="13" width="20"> Français</a></td></tr>
