@@ -3,7 +3,7 @@
 
 <table align="right">
  <tr><td><a href="README.md"><img src="img/uk.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_fr.md"><img src="imgs/fre.png" height="13"> Français</a></td></tr>
+ <tr><td><a href="README_fr.md"><img src="img/fre.png" height="13"> Français</a></td></tr>
  <tr><td><a href="README_pt.md"><img src="img/ita.png" height="13"> Italian</a></td></tr>
 </table>
 
