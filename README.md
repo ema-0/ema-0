@@ -1,5 +1,5 @@
 
-<img src="images/svg/header_en.svg"></img>
+<img src="img/cover.svg"></img>
 
 <table align="right">
  <tr><td><img src="img/uk.png" height="13" width="20"> English</a></td></tr>
@@ -7,14 +7,14 @@
  <tr><td><img src="img/ita.png" height="13" width="20"> Italian</a></td></tr>
 </table>
 
-### :space_invader: &nbsp;About Me
-
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Tech Lead at [UNESP](https://unesp.br/) (São Paulo State University) \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching software architecture, inertial sensors, and sensor fusion.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2004 with 10+ years of experience in enterprise wide software development.\
-&nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;Living in Brazil with my lovely wife :two_hearts:, Kali :service_dog:, and Maia :service_dog: .
+### Welcome! :beers:
+About me: \
+&nbsp;&nbsp;&nbsp;:computer: &nbsp;Datascientist\
+&nbsp;&nbsp;&nbsp;:hammer: &nbsp;Currently working at [Heta2](http:http://www.heta2.com/) (Milan, Italy) \
+&nbsp;&nbsp;&nbsp;:heart: &nbsp;Love for math\
+&nbsp;&nbsp;&nbsp;:cyclone: &nbsp;Crypto enthusiast\
+&nbsp;&nbsp;&nbsp;:headphones: &nbsp;[My podcast](https://open.spotify.com/show/0sAcTVn6lUB6LYEc18VDIP)\
+&nbsp;&nbsp;&nbsp;:surfer::sunrise_over_mountains::runner:&nbsp;Sports addicted
 
 <p align="center">
 <a href="mailto:emanuele.battistello@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
