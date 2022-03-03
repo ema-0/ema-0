@@ -2,9 +2,9 @@
 <img src="images/svg/header_en.svg"></img>
 
 <table align="right">
- <tr><td><a href="README.md"><img src="img/uk.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_fr.md"><img src="img/fre.png" height="13"> Français</a></td></tr>
- <tr><td><a href="README_pt.md"><img src="img/ita.png" height="13"> Italian</a></td></tr>
+ <tr><td><img src="img/uk.png" height="13" width="20"> English</a></td></tr>
+ <tr><td><img src="img/fre.png" height="13" width="20"> Français</a></td></tr>
+ <tr><td><img src="img/ita.png" height="13" width="20"> Italian</a></td></tr>
 </table>
 
 ### :space_invader: &nbsp;About Me
