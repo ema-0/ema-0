@@ -6,11 +6,11 @@
 
 ### Welcome! :beers:
 About me: \
-&nbsp;&nbsp;&nbsp;:computer: &nbsp;Datascientist\
-&nbsp;&nbsp;&nbsp;:heart: &nbsp;Love for math\
-&nbsp;&nbsp;&nbsp;:cyclone: &nbsp;Crypto enthusiast\
-&nbsp;&nbsp;&nbsp;:headphones: &nbsp;[My podcast](https://open.spotify.com/show/0sAcTVn6lUB6LYEc18VDIP)\
-&nbsp;&nbsp;&nbsp;:surfer::sunrise_over_mountains::runner:&nbsp;Sports addicted
+&nbsp;&nbsp;&nbsp; 💻 &nbsp;Datascientist\
+&nbsp;&nbsp;&nbsp; ❤️ &nbsp;Love for math\
+&nbsp;&nbsp;&nbsp; 🌀 &nbsp;Crypto enthusiast\
+&nbsp;&nbsp;&nbsp; 🎧 &nbsp;[My podcast](https://open.spotify.com/show/0sAcTVn6lUB6LYEc18VDIP)\
+&nbsp;&nbsp;&nbsp; 🏄🌄🏃 &nbsp;Sports addicted
 
 <p align="center">
 <a href="mailto:emanuele.battistello@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
